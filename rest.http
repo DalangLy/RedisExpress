@@ -1,0 +1,7 @@
+### get all rockets with redis
+
+GET http://localhost:3000/rockets_with_redis
+
+
+### get all rockets witout redis
+GET http://localhost:3000/rockets_without_redis
